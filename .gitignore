@@ -1,0 +1,8 @@
+.tmp_md/
+.playwright-mcp/
+.extract/
+# Source material (kept local, not deployed)
+*.pptx
+TR0336679-K_BIS_INFO.pdf
+TR0336679-K_BORANG_A.pdf
+TR0336679-K_CERT.pdf

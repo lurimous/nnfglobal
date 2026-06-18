@@ -1,0 +1,111 @@
+/* ==========================================================================
+   NNF Global — Design Tokens
+   Corporate parent identity: midnight navy + charcoal with a gold accent.
+   Per-venture accent tints: Saté Ria (gold-amber), Hentian Bas (steel-blue).
+   ========================================================================== */
+
+:root {
+  /* ---- Color: brand (navy/charcoal ink) ---- */
+  --color-ink:            #0C1A2E; /* midnight navy / primary surface   */
+  --color-ink-2:          #142A45; /* raised navy                       */
+  --color-ink-3:          #2A3F58; /* secondary                         */
+  --color-on-primary:     #FFFFFF;
+
+  --color-gold:           #D4A537; /* signature accent (bright on navy) */
+  --color-gold-deep:      #A77B16; /* CTA on light                      */
+  --color-gold-hover:     #835F0E;
+  --color-gold-soft:      #ECCB7A; /* highlights, hairlines on dark     */
+
+  /* venture + emphasis accents (replaces SateRia's flame/ember) */
+  --color-flame:          #2F6FB0; /* steel-blue emphasis (Hentian Bas) */
+  --color-ember:          #3E84CC;
+  --color-steel:          #2F6FB0;
+  --color-steel-soft:     #7FB0DD;
+  --color-amber:          #D4A537; /* Saté Ria tint                     */
+
+  /* ---- Color: neutrals (cool corporate) ---- */
+  --color-bg:             #F6F8FB; /* cool off-white                    */
+  --color-bg-2:           #EBF0F6; /* cool panel                        */
+  --color-fg:             #111923; /* near-black cool text on light     */
+  --color-fg-muted:       #4E5A68;
+  --color-border:         #DBE2EC;
+  --color-border-strong:  #BFC9D6;
+
+  /* text on dark */
+  --color-fg-on-dark:     #EEF3F8;
+  --color-fg-on-dark-mut: #A9B7C6;
+  --color-border-on-dark: rgba(236, 203, 122, 0.18);
+
+  /* ---- Semantic ---- */
+  --color-surface:        var(--color-bg);
+  --color-surface-raised: #FFFFFF;
+  --color-text:           var(--color-fg);
+  --color-text-muted:     var(--color-fg-muted);
+  --color-accent:         var(--color-gold-deep);
+  --color-ring:           var(--color-gold);
+
+  /* ---- Typography ---- */
+  --font-display: "Playfair Display SC", Georgia, "Times New Roman", serif;
+  --font-body:    "Karla", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  --fs-12: 0.75rem;
+  --fs-14: 0.875rem;
+  --fs-16: 1rem;
+  --fs-18: 1.125rem;
+  --fs-20: 1.25rem;
+  --fs-24: 1.5rem;
+  --fs-32: 2rem;
+  --fs-40: clamp(2rem, 1.4rem + 2.6vw, 2.75rem);
+  --fs-48: clamp(2.25rem, 1.5rem + 3.4vw, 3.25rem);
+  --fs-64: clamp(2.5rem, 1.5rem + 4.6vw, 4.25rem);
+
+  --lh-tight: 1.08;
+  --lh-snug:  1.25;
+  --lh-body:  1.65;
+
+  --tracking-wide: 0.16em;  /* eyebrows / labels */
+  --tracking-mid:  0.04em;
+
+  /* ---- Spacing (4 / 8 rhythm) ---- */
+  --space-1:  0.25rem;
+  --space-2:  0.5rem;
+  --space-3:  0.75rem;
+  --space-4:  1rem;
+  --space-6:  1.5rem;
+  --space-8:  2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-28: 7rem;
+
+  /* ---- Layout ---- */
+  --header-h:     72px;
+  --container:    1200px;
+  --container-nar: 820px;
+  --gutter:       clamp(1rem, 0.4rem + 2.6vw, 2rem);
+  --radius-sm:    6px;
+  --radius:       12px;
+  --radius-lg:    20px;
+  --radius-pill:  999px;
+
+  /* ---- Elevation ---- */
+  --shadow-sm:  0 1px 2px rgba(12, 26, 46, 0.06), 0 1px 3px rgba(12, 26, 46, 0.08);
+  --shadow:     0 6px 16px rgba(12, 26, 46, 0.10), 0 2px 4px rgba(12, 26, 46, 0.06);
+  --shadow-lg:  0 24px 48px -12px rgba(12, 26, 46, 0.32);
+  --shadow-gold: 0 10px 30px -8px rgba(212, 165, 55, 0.45);
+
+  /* ---- Motion ---- */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in:  cubic-bezier(0.7, 0, 0.84, 0);
+  --dur-fast: 160ms;
+  --dur:      240ms;
+  --dur-slow: 400ms;
+
+  /* ---- Z-index scale ---- */
+  --z-base:    0;
+  --z-raised:  10;
+  --z-sticky:  40;
+  --z-overlay: 100;
+  --z-modal:   1000;
+}

@@ -1,0 +1,181 @@
+{
+  "a11y": {
+    "skip": "Langkau ke kandungan",
+    "menu": "Togol menu"
+  },
+  "brand": {
+    "tag": "Perunding Projek"
+  },
+  "nav": {
+    "home": "Utama",
+    "about": "Tentang",
+    "projects": "Projek",
+    "contact": "Hubungi",
+    "cta": "Bekerjasama"
+  },
+  "footer": {
+    "tagline": "Perunding projek dan pembina usaha niaga Malaysia — membangunkan usaha niaga mesra rakyat dari konsep ke skala nasional.",
+    "owner": "NNF Global ialah syarikat induk dan penaja eksklusif Hentian Bas Mesra Rakyat dan Saté Ria.",
+    "explore": "Terokai",
+    "reach": "Hubungi kami",
+    "location": "Semenyih, Selangor, Malaysia",
+    "rights": "© 2026 NNF Global. Hak cipta terpelihara.",
+    "reg": "No. Pendaftaran SSM 202603031145 (TR0336679-K)"
+  },
+  "hero": {
+    "eyebrow": "Perunding Projek &amp; Pembina Usaha Niaga Malaysia",
+    "title": "Membina usaha niaga <em>mesra rakyat</em> Malaysia.",
+    "sub": "NNF Global membangun, menyusun, dan mempromosikan usaha niaga berimpak tinggi — daripada infrastruktur awam hingga jenama makanan ikonik — dan membawanya dari konsep ke skala nasional.",
+    "ctaPrimary": "Terokai projek kami",
+    "ctaSecondary": "Tentang NNF Global",
+    "chip1": "Perniagaan Malaysia berdaftar SSM",
+    "chip2": "Dua usaha niaga utama",
+    "chip3": "Kerjasama kerajaan &amp; swasta"
+  },
+  "what": {
+    "eyebrow": "Apa yang kami lakukan",
+    "title": "Satu kumpulan, penyampaian usaha niaga menyeluruh",
+    "c1Title": "Perundingan Projek",
+    "c1Body": "Kami menyusun, membiayai, dan menguruskan projek kompleks — termasuk infrastruktur awam yang disampaikan melalui model Private Finance Initiative.",
+    "c2Title": "Acara &amp; Promosi",
+    "c2Body": "Penganjuran, promosi, dan pengurusan acara serta program sukan secara menyeluruh, dalam dan luar bangunan, untuk khalayak profesional dan awam.",
+    "c3Title": "Usaha Niaga Makanan &amp; Minuman",
+    "c3Body": "Daripada pembuatan dapur pusat hingga format makanan segera, kiosk, dan bergerak — kami membina dan mempromosikan jenama F&amp;B yang boleh diperluas."
+  },
+  "ventures": {
+    "eyebrow": "Usaha niaga kami",
+    "title": "Dua usaha niaga, satu piawai penyampaian",
+    "hbTitle": "Hentian Bas Mesra Rakyat",
+    "hbTag": "Infrastruktur",
+    "hbBody": "Hentian bas bertaraf dunia dan mesra rakyat yang dibina melalui Private Finance Initiative — berhawa dingin, selamat, dan penuh kemudahan untuk rakyat.",
+    "hbCta": "Ketahui lanjut",
+    "srTitle": "Saté Ria",
+    "srTag": "Jenama F&amp;B",
+    "srBody": "Jenama satay ikonik Malaysia, dilahirkan semula untuk 2025–2028 atas model dapur pusat, format pelesenan serba boleh, dan cita-cita global.",
+    "srCta": "Ketahui lanjut",
+    "srSite": "Lawati laman"
+  },
+  "lead": {
+    "eyebrow": "Kepimpinan",
+    "title": "Dipandu oleh tangan berpengalaman",
+    "p1Name": "YM Ungku Fadli Ungku Jalil",
+    "p1Role": "Pengerusi",
+    "p2Name": "Dato' Seri Farid Ibrahim",
+    "p2Role": "Pengarah Urusan Kumpulan &amp; CEO"
+  },
+  "stats": {
+    "eyebrow": "Sekilas pandang",
+    "title": "Kumpulan yang dibina untuk menyampaikan",
+    "s1": "Usaha niaga utama",
+    "s2": "Aktiviti perniagaan berdaftar",
+    "s3": "Pihak berkuasa tempatan dilibatkan seluruh negara",
+    "s4": "Berdaftar SSM di Malaysia"
+  },
+  "cta": {
+    "eyebrow": "Bekerja dengan kami",
+    "title": "Bekerjasama dengan NNF Global",
+    "body": "Untuk kerjasama projek, pelaburan, kolaborasi kerajaan, atau pelesenan usaha niaga — kami ingin mendengar daripada anda.",
+    "primary": "Hubungi kami",
+    "secondary": "Lihat usaha niaga",
+    "secondary2": "Tentang kumpulan"
+  },
+  "about": {
+    "eyebrow": "Tentang NNF Global",
+    "title": "Pembina usaha niaga Malaysia dengan mandat kebajikan awam",
+    "leadP": "NNF Global ialah perunding projek dan pembina usaha niaga Malaysia yang berpangkalan di Semenyih, Selangor. Kami mencetus, menyusun, membiayai, dan mempromosikan usaha niaga yang menggabungkan kekuatan komersial dengan manfaat awam yang nyata.",
+    "b1": "Syarikat induk dan penaja eksklusif Hentian Bas Mesra Rakyat dan Saté Ria",
+    "b2": "Penyusunan projek termasuk model Private Finance Initiative",
+    "b3": "Pengalaman melibatkan kementerian kerajaan dan pihak berkuasa tempatan seluruh negara",
+    "link": "Lihat usaha niaga kami"
+  },
+  "cap": {
+    "eyebrow": "Keupayaan",
+    "title": "Apa yang dilindungi pendaftaran kami",
+    "c1Title": "Perundingan Projek",
+    "c1Body": "Nasihat, penyusunan, dan pengurusan untuk projek selain perundingan seni bina, kejuruteraan, dan pengurusan.",
+    "c2Title": "Pengurusan Acara",
+    "c2Body": "Menganjur, mempromosi, dan menguruskan acara serta persembahan langsung pelbagai skala.",
+    "c3Title": "Acara Sukan",
+    "c3Body": "Penganjuran, pengendalian, dan promosi acara sukan dalam dan luar bangunan untuk profesional dan amatur.",
+    "c4Title": "Pembuatan Makanan",
+    "c4Body": "Pembuatan makanan dan hidangan tersedia, serta jualan borong barangan makanan secara besar-besaran.",
+    "c5Title": "Perkhidmatan Makanan",
+    "c5Body": "Restoran makanan segera, kiosk, kenderaan sorong makanan bergerak, dan format penjaja.",
+    "c6Title": "Runcit Dalam Talian",
+    "c6Body": "Jualan runcit sebarang jenis produk melalui internet."
+  },
+  "reg": {
+    "eyebrow": "Syarikat",
+    "title": "Berdaftar &amp; bersedia untuk menyampaikan",
+    "body": "NNF Global berdaftar dengan Suruhanjaya Syarikat Malaysia (SSM) sebagai pemilikan tunggal, dengan tempoh pendaftaran lima tahun bermula 2026.",
+    "k1": "Nama perniagaan",
+    "k2": "No. pendaftaran",
+    "k3": "Bentuk perniagaan",
+    "v3": "Pemilikan tunggal",
+    "k4": "Mula beroperasi",
+    "k5": "Sah sehingga",
+    "k6": "Pejabat berdaftar",
+    "v6": "Semenyih, Selangor"
+  },
+  "proj": {
+    "eyebrow": "Usaha niaga kami",
+    "title": "Dua usaha niaga di bawah satu kumpulan",
+    "body": "NNF Global ialah syarikat induk dan penaja eksklusif sebuah usaha niaga infrastruktur dan sebuah jenama makanan ikonik — setiap satu disampaikan pada piawai yang sama."
+  },
+  "hb": {
+    "eyebrow": "Infrastruktur · Private Finance Initiative",
+    "title": "Hentian Bas Mesra Rakyat",
+    "body": "Hentian bas bertaraf dunia dan \"mesra rakyat\" yang dibina melalui Private Finance Initiative — menukar perhentian tepi jalan yang suram dan tidak selamat kepada ruang awam yang selamat, selesa, dan penuh kemudahan untuk rakyat.",
+    "f1": "Ruang menunggu berhawa dingin dengan kerusi ergonomik",
+    "f2": "CCTV, kawalan keselamatan, dan persekitaran yang terang dan selamat",
+    "f3": "Kedai serbaneka, makanan segera, kafe, ATM, tandas moden &amp; surau",
+    "f4": "Pembiayaan sendiri melalui papan iklan digital &amp; antena selular",
+    "q1": "Kukuh · Sturdy",
+    "q2": "Selesa · Comfortable",
+    "q3": "Selamat · Safe",
+    "q4": "Mudah · Easy",
+    "q5": "Hebat · World-class",
+    "q6": "Mesra Rakyat · People-friendly",
+    "k1": "Model",
+    "v1": "Private Finance Initiative",
+    "k2": "Format",
+    "v2": "Hentian 3 tingkat · ~2,400 kps",
+    "k3": "Pembinaan",
+    "v3": "Struktur keluli atas asas konkrit",
+    "k4": "Prototaip",
+    "v4": "Air Keroh (Melaka) · Selayang (Selangor)",
+    "note": "Disediakan untuk Kementerian Perumahan dan Kerajaan Tempatan, program ini telah melibatkan pihak berkuasa tempatan (PBT) di Selangor, Pulau Pinang, Johor, Kedah, Negeri Sembilan, Melaka, Terengganu, Sarawak, dan Sabah.",
+    "cta": "Tanya tentang projek ini",
+    "galEyebrow": "Di dalam hentian",
+    "galTitle": "Kemudahan sebenar, sudah dibina",
+    "cap1": "Ruang menunggu berhawa dingin",
+    "cap2": "Kedai serbaneka",
+    "cap3": "Surau",
+    "cap4": "Tandas moden"
+  },
+  "sr": {
+    "eyebrow": "Jenama F&amp;B · Kebangkitan 2025–2028",
+    "title": "Saté Ria",
+    "body": "Jenama satay ikonik Malaysia, dilahirkan semula. NNF Global mempromosikan kebangkitan jenama ini, dibina atas dapur pusat untuk kualiti yang konsisten, model pelesenan serba boleh, dan identiti global.",
+    "f1": "Pengeluaran dapur pusat untuk satay sedia-beku yang konsisten",
+    "f2": "Format pelesenan trak makanan, kiosk, dan kedai penuh",
+    "f3": "Jenama dan resipi rahsia milik sendiri, dibina untuk pasaran global",
+    "cta": "Lawati sateria.my"
+  },
+  "contact": {
+    "eyebrow": "Hubungi",
+    "title": "Mari bina sesuatu yang berkekalan",
+    "body": "Hubungi kami tentang kerjasama projek, pelaburan, kolaborasi kerajaan, atau pertanyaan usaha niaga. Kami membalas setiap pertanyaan yang serius.",
+    "emailLabel": "E-mel kami",
+    "phoneLabel": "Hubungi kami",
+    "addrLabel": "Pejabat berdaftar",
+    "addr": "5-06 Residensi Sri Tanjung, Jalan Sri Tanjung 17, Taman Sri Tanjung, 43500 Semenyih, Selangor",
+    "routeEyebrow": "Beritahu kami keperluan anda",
+    "routeTitle": "Mulakan perbualan yang fokus",
+    "routeBody": "Pilih pertanyaan yang sesuai dan kami akan menghalakannya kepada orang yang betul.",
+    "r1": "Kerjasama projek",
+    "r2": "Hentian Bas Mesra Rakyat",
+    "r3": "Saté Ria",
+    "reg": "NNF Global · No. Pendaftaran SSM 202603031145 (TR0336679-K) · Berdaftar di Malaysia."
+  }
+}

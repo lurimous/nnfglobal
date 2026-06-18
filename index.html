@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NNF Global — Malaysian Project Consultancy &amp; Venture Builder</title>
+  <meta name="description" content="NNF Global is a Malaysian project consultancy and venture builder — parent and promoter of Hentian Bas Mesra Rakyat and Saté Ria." />
+  <meta name="theme-color" content="#0C1A2E" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="NNF Global — Malaysian Project Consultancy & Venture Builder" />
+  <meta property="og:description" content="Parent and promoter of Hentian Bas Mesra Rakyat and Saté Ria. Building Malaysia's people-first ventures." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/images/og-cover.jpg" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700&family=Playfair+Display+SC:wght@400;700&display=swap" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="assets/css/tokens.css" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main" data-i18n="a11y.skip">Skip to content</a>
+
+  <!-- ===== Header ===== -->
+  <header class="site-header" id="site-header">
+    <div class="container site-header__inner">
+      <a class="brand" href="#/" aria-label="NNF Global home">
+        <span class="brand__mark" aria-hidden="true">NNF</span>
+        <span class="brand__word">NNF Global<small data-i18n="brand.tag">Project Consultancy</small></span>
+      </a>
+
+      <nav class="nav" id="primary-nav" aria-label="Primary">
+        <a class="nav__link" href="#/" data-route="/" data-i18n="nav.home">Home</a>
+        <a class="nav__link" href="#/about" data-route="/about" data-i18n="nav.about">About</a>
+        <a class="nav__link" href="#/projects" data-route="/projects" data-i18n="nav.projects">Projects</a>
+        <a class="nav__link" href="#/contact" data-route="/contact" data-i18n="nav.contact">Contact</a>
+      </nav>
+
+      <div class="header-actions">
+        <div class="lang-toggle" role="group" aria-label="Language">
+          <button class="lang-toggle__btn" data-lang="en" type="button">EN</button>
+          <button class="lang-toggle__btn" data-lang="ms" type="button">BM</button>
+        </div>
+        <a class="btn btn--gold btn--sm header-cta" href="#/contact" data-i18n="nav.cta">Partner with us</a>
+        <button class="nav-toggle" id="nav-toggle" type="button"
+                aria-expanded="false" aria-controls="primary-nav" data-i18n-attr="aria-label:a11y.menu" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== Routed content ===== -->
+  <main id="main" class="app" tabindex="-1" aria-live="polite"></main>
+
+  <!-- ===== Footer ===== -->
+  <footer class="site-footer">
+    <div class="container site-footer__inner">
+      <div class="site-footer__brand">
+        <a class="brand" href="#/" aria-label="NNF Global home">
+          <span class="brand__mark" aria-hidden="true">NNF</span>
+          <span class="brand__word">NNF Global<small data-i18n="brand.tag">Project Consultancy</small></span>
+        </a>
+        <p class="site-footer__tag" data-i18n="footer.tagline">A Malaysian project consultancy and venture builder — developing people-first ventures from concept to nationwide scale.</p>
+        <p class="site-footer__owner" data-i18n="footer.owner">NNF Global is the parent and exclusive promoter of Hentian Bas Mesra Rakyat and Saté Ria.</p>
+      </div>
+
+      <nav class="site-footer__nav" aria-label="Footer">
+        <span class="site-footer__heading" data-i18n="footer.explore">Explore</span>
+        <a href="#/" data-i18n="nav.home">Home</a>
+        <a href="#/about" data-i18n="nav.about">About</a>
+        <a href="#/projects" data-i18n="nav.projects">Projects</a>
+        <a href="#/contact" data-i18n="nav.contact">Contact</a>
+      </nav>
+
+      <div class="site-footer__contact">
+        <span class="site-footer__heading" data-i18n="footer.reach">Reach us</span>
+        <a href="mailto:nadianabilafarid.nnf@gmail.com">nadianabilafarid.nnf@gmail.com</a>
+        <a href="tel:+60186615067">+60 18-661 5067</a>
+        <span data-i18n="footer.location">Semenyih, Selangor, Malaysia</span>
+      </div>
+    </div>
+    <div class="container site-footer__base">
+      <span data-i18n="footer.rights">© 2026 NNF Global. All rights reserved.</span>
+      <span class="site-footer__reg" data-i18n="footer.reg">SSM Reg. No. 202603031145 (TR0336679-K)</span>
+    </div>
+  </footer>
+
+  <!-- Inline SVG sprite (icons) -->
+  <div hidden id="svg-sprite-host"></div>
+
+  <!-- Scripts -->
+  <script src="assets/js/i18n.js" defer></script>
+  <script src="assets/js/router.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>

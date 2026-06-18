@@ -1,0 +1,181 @@
+{
+  "a11y": {
+    "skip": "Skip to content",
+    "menu": "Toggle menu"
+  },
+  "brand": {
+    "tag": "Project Consultancy"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "cta": "Partner with us"
+  },
+  "footer": {
+    "tagline": "A Malaysian project consultancy and venture builder — developing people-first ventures from concept to nationwide scale.",
+    "owner": "NNF Global is the parent and exclusive promoter of Hentian Bas Mesra Rakyat and Saté Ria.",
+    "explore": "Explore",
+    "reach": "Reach us",
+    "location": "Semenyih, Selangor, Malaysia",
+    "rights": "© 2026 NNF Global. All rights reserved.",
+    "reg": "SSM Reg. No. 202603031145 (TR0336679-K)"
+  },
+  "hero": {
+    "eyebrow": "Malaysian Project Consultancy &amp; Venture Builder",
+    "title": "Building Malaysia's <em>people-first</em> ventures.",
+    "sub": "NNF Global develops, structures, and promotes high-impact ventures — from public infrastructure to iconic food brands — and carries them from concept to nationwide scale.",
+    "ctaPrimary": "Explore our projects",
+    "ctaSecondary": "About NNF Global",
+    "chip1": "SSM-registered Malaysian enterprise",
+    "chip2": "Two flagship ventures",
+    "chip3": "Government &amp; private partnerships"
+  },
+  "what": {
+    "eyebrow": "What we do",
+    "title": "One group, end-to-end venture delivery",
+    "c1Title": "Project Consultancy",
+    "c1Body": "We structure, finance, and manage complex projects — including public infrastructure delivered through Private Finance Initiative models.",
+    "c2Title": "Events &amp; Promotions",
+    "c2Body": "End-to-end organisation, promotion, and management of events and sporting programmes, indoors and out, for professional and public audiences.",
+    "c3Title": "Food &amp; Beverage Ventures",
+    "c3Body": "From central-kitchen manufacturing to fast-food, kiosks, and mobile formats — we build and promote scalable F&amp;B brands."
+  },
+  "ventures": {
+    "eyebrow": "Our ventures",
+    "title": "Two ventures, one standard of delivery",
+    "hbTitle": "Hentian Bas Mesra Rakyat",
+    "hbTag": "Infrastructure",
+    "hbBody": "World-class, people-friendly bus terminals built through a Private Finance Initiative — air-conditioned, safe, and full of amenities for the rakyat.",
+    "hbCta": "Learn more",
+    "srTitle": "Saté Ria",
+    "srTag": "F&amp;B Brand",
+    "srBody": "Malaysia's iconic satay brand, reborn for 2025–2028 on a central-kitchen model, a versatile licensing format, and global ambition.",
+    "srCta": "Learn more",
+    "srSite": "Visit site"
+  },
+  "lead": {
+    "eyebrow": "Leadership",
+    "title": "Stewarded by experienced hands",
+    "p1Name": "YM Ungku Fadli Ungku Jalil",
+    "p1Role": "Chairman",
+    "p2Name": "Dato' Seri Farid Ibrahim",
+    "p2Role": "Group Managing Director &amp; CEO"
+  },
+  "stats": {
+    "eyebrow": "At a glance",
+    "title": "A group built to deliver",
+    "s1": "Flagship ventures",
+    "s2": "Registered business activities",
+    "s3": "Local councils engaged nationwide",
+    "s4": "SSM-registered in Malaysia"
+  },
+  "cta": {
+    "eyebrow": "Work with us",
+    "title": "Partner with NNF Global",
+    "body": "For project partnerships, investment, government collaboration, or venture licensing — we'd like to hear from you.",
+    "primary": "Get in touch",
+    "secondary": "See the ventures",
+    "secondary2": "About the group"
+  },
+  "about": {
+    "eyebrow": "About NNF Global",
+    "title": "A Malaysian venture builder with a public-good mandate",
+    "leadP": "NNF Global is a Malaysian project consultancy and venture builder based in Semenyih, Selangor. We originate, structure, finance, and promote ventures that combine commercial strength with tangible public benefit.",
+    "b1": "Parent and exclusive promoter of Hentian Bas Mesra Rakyat and Saté Ria",
+    "b2": "Project structuring including Private Finance Initiative models",
+    "b3": "Experience engaging government ministries and local councils nationwide",
+    "link": "See our ventures"
+  },
+  "cap": {
+    "eyebrow": "Capabilities",
+    "title": "What our registration covers",
+    "c1Title": "Project Consultancy",
+    "c1Body": "Advisory, structuring, and management for projects outside architecture, engineering, and management consulting.",
+    "c2Title": "Event Management",
+    "c2Body": "Organising, promoting, and managing events and live productions of every scale.",
+    "c3Title": "Sports Events",
+    "c3Body": "Organisation, operation, and promotion of indoor and outdoor sporting events for professionals and amateurs.",
+    "c4Title": "Food Manufacturing",
+    "c4Body": "Manufacture of prepared meals and dishes, and wholesale of foodstuffs at scale.",
+    "c5Title": "Food Service",
+    "c5Body": "Fast-food restaurants, kiosks, mobile food carts, and hawker formats.",
+    "c6Title": "Online Retail",
+    "c6Body": "Retail sale of any kind of product over the internet."
+  },
+  "reg": {
+    "eyebrow": "The company",
+    "title": "Registered &amp; ready to deliver",
+    "body": "NNF Global is registered with the Companies Commission of Malaysia (SSM) as a sole proprietorship, with a five-year registration period from 2026.",
+    "k1": "Business name",
+    "k2": "Registration no.",
+    "k3": "Business form",
+    "v3": "Sole proprietorship",
+    "k4": "Commenced",
+    "k5": "Valid until",
+    "k6": "Registered office",
+    "v6": "Semenyih, Selangor"
+  },
+  "proj": {
+    "eyebrow": "Our ventures",
+    "title": "Two ventures under one group",
+    "body": "NNF Global is the parent and exclusive promoter of an infrastructure venture and an iconic food brand — each delivered to the same standard."
+  },
+  "hb": {
+    "eyebrow": "Infrastructure · Private Finance Initiative",
+    "title": "Hentian Bas Mesra Rakyat",
+    "body": "World-class, \"people-friendly\" bus terminals built through a Private Finance Initiative — turning bleak, unsafe roadside stops into safe, comfortable, amenity-rich public spaces for the rakyat.",
+    "f1": "Air-conditioned waiting halls with ergonomic seating",
+    "f2": "CCTV, security, and bright, safe surroundings",
+    "f3": "Convenience stores, fast food, café, ATM, modern toilets &amp; surau",
+    "f4": "Self-funding via digital billboards &amp; cellular antennas",
+    "q1": "Kukuh · Sturdy",
+    "q2": "Selesa · Comfortable",
+    "q3": "Selamat · Safe",
+    "q4": "Mudah · Easy",
+    "q5": "Hebat · World-class",
+    "q6": "Mesra Rakyat · People-friendly",
+    "k1": "Model",
+    "v1": "Private Finance Initiative",
+    "k2": "Format",
+    "v2": "3-storey terminal · ~2,400 sq ft",
+    "k3": "Build",
+    "v3": "Steel structure on concrete foundation",
+    "k4": "Prototypes",
+    "v4": "Air Keroh (Melaka) · Selayang (Selangor)",
+    "note": "Prepared for the Ministry of Housing and Local Government, the programme has engaged local councils (PBT) across Selangor, Penang, Johor, Kedah, Negeri Sembilan, Melaka, Terengganu, Sarawak, and Sabah.",
+    "cta": "Enquire about this project",
+    "galEyebrow": "Inside the terminal",
+    "galTitle": "Real amenities, already built",
+    "cap1": "Air-conditioned waiting hall",
+    "cap2": "Convenience store",
+    "cap3": "Surau",
+    "cap4": "Modern washrooms"
+  },
+  "sr": {
+    "eyebrow": "F&amp;B Brand · Revival 2025–2028",
+    "title": "Saté Ria",
+    "body": "Malaysia's iconic satay brand, reborn. NNF Global promotes the brand's revival, built on a central kitchen for consistent quality, a versatile licensing model, and a global identity.",
+    "f1": "Central-kitchen production for consistent, frozen-ready satay",
+    "f2": "Food truck, kiosk, and full-outlet licensing formats",
+    "f3": "Owned brand and secret recipe, built for global markets",
+    "cta": "Visit sateria.my"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's build something that lasts",
+    "body": "Reach out about project partnerships, investment, government collaboration, or venture enquiries. We respond to every serious enquiry.",
+    "emailLabel": "Email us",
+    "phoneLabel": "Call us",
+    "addrLabel": "Registered office",
+    "addr": "5-06 Residensi Sri Tanjung, Jalan Sri Tanjung 17, Taman Sri Tanjung, 43500 Semenyih, Selangor",
+    "routeEyebrow": "Tell us what you need",
+    "routeTitle": "Start a focused conversation",
+    "routeBody": "Pick the enquiry that fits and we'll route it to the right person.",
+    "r1": "Project partnership",
+    "r2": "Hentian Bas Mesra Rakyat",
+    "r3": "Saté Ria",
+    "reg": "NNF Global · SSM Reg. No. 202603031145 (TR0336679-K) · Registered in Malaysia."
+  }
+}
