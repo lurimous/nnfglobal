@@ -355,9 +355,10 @@ h1, h2, h3, .display { font-family: var(--font-display); font-weight: 400; line-
 .section--dark .check-list svg { color: var(--color-gold-soft); }
 
 /* ---------- Leadership ---------- */
-.people { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--space-8); max-width: 760px; margin-inline: auto; }
-.person { text-align: center; }
+.people { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--space-10) var(--space-8); max-width: 1040px; margin-inline: auto; }
+.person { text-align: center; flex: 0 1 168px; }
 .person .ph-img { --ar: 1; max-width: 150px; margin: 0 auto var(--space-4); border-radius: 50%; }
+.person .ph-img::after { display: none; }
 .person__name { font-size: var(--fs-20); }
 .person__role { font-size: var(--fs-14); color: var(--color-text-muted); margin-top: 0.2rem; }
 .section--dark .person__role { color: var(--color-fg-on-dark-mut); }
@@ -502,7 +503,7 @@ h1, h2, h3, .display { font-family: var(--font-display); font-weight: 400; line-
   .grid-3, .grid-2 { grid-template-columns: 1fr; }
   .split, .contact-grid { grid-template-columns: 1fr; }
   .split--reverse .split__media { order: 0; }
-  .people { grid-template-columns: 1fr; max-width: 360px; }
+  .people { max-width: 440px; }
   .phase { grid-template-columns: 1fr; gap: var(--space-4); }
   .site-footer__inner { grid-template-columns: 1fr; gap: var(--space-8); }
 }
