@@ -129,7 +129,49 @@ y = venture(y, "assets/images/venture-sateria.jpg", "Saté Ria", "F&B Brand · R
     "identity. Visit sateria.my.")
 pagenum(3)
 
-# ---------------- Page 4: Leadership + Registration + Contact ----------------
+# ---------------- Page 4: Flagship concession ----------------
+y = section_page("Flagship Project")
+y = heading(M, y, "Hentian Bas Mesra Rakyat — Concession")
+y = para(M, y + 1, PW - 2*M,
+    "A nationwide initiative that turns ordinary bus stops into commercial, social and digital "
+    "smart community hubs through a Private Finance Initiative — self-funding, at no cost to "
+    "government. Aligned with the national bus transformation (BET & BRT), Smart City and ESG agendas.",
+    size=10, color=MUTED, lh=4.8)
+y += 3
+stats = [("4,000+", "sites nationwide"), ("1.7–3.5 yrs", "payback (ROI)"),
+         ("RM 10.8–22.8k", "net profit / month"), ("+10–20%", "digital · telco · green")]
+bw = (PW - 2*M - 3*4) / 4
+for i, (num, lab) in enumerate(stats):
+    bx = M + i * (bw + 4)
+    rect(bx, y, bw, 22, NAVY)
+    text(bx, y + 4.5, num, "Serif", "B", 12, GOLDS, "C", bw)
+    text(bx, y + 13, lab, "Sans", "", 8, LIGHT, "C", bw)
+y += 30
+y = heading(M, y, "Concession model", 13)
+y += 1
+for pct, who, desc in [
+    ("40%", "Owner + PBT", "Site, approvals & “Mesra Rakyat” policy support."),
+    ("10%", "Dawsix Consultancy", "Submission, legal, tenant management & maintenance."),
+    ("50%", "SME Concessionaire", "Operations, rental, advertising & telco infrastructure."),
+]:
+    text(M, y, pct, "Serif", "B", 12, GOLDD, "L", 16)
+    text(M + 17, y, who, "Sans", "B", 10.5, NAVY, "L", 60)
+    para(M + 17, y + 5, PW - M - (M + 17), desc, size=9.5, color=MUTED, lh=4.4)
+    y += 11
+y = heading(M, y + 2, "Revenue streams", 13)
+y = para(M, y + 1, PW - 2*M,
+    "Rental kiosk & café 35%   ·   Advertising LED 30%   ·   Telco & WiFi 20%   ·   "
+    "Community services 15%  —  gross RM 13,000–17,000 / month / location.",
+    size=10, color=TEXT, lh=5)
+y = heading(M, y + 3, "Rollout", 13)
+y = para(M, y + 1, PW - 2*M,
+    "Phase 1 Pilot — 10 sites (Selangor & KL)   ·   Phase 2 Scaling — 50 sites   ·   "
+    "Phase 3 National — 200 sites, targeting RM 240 million / year.",
+    size=10, color=TEXT, lh=5)
+text(M, y + 4, "Full concession investor deck available on request.", "Sans", "I", 9.5, MUTED, "L", PW)
+pagenum(4)
+
+# ---------------- Page 5: Leadership + Registration + Contact ----------------
 y = section_page("Leadership & Company")
 y = heading(M, y, "Leadership & team")
 y += 2
@@ -166,7 +208,7 @@ text(M + 8, by + 13, "admin@nnfglobal.online      nnfglobal.online      +60 11-1
      "Sans", "", 10.5, LIGHT, "L", PW)
 text(M + 8, by + 20, "Parent & exclusive promoter of Hentian Bas Mesra Rakyat & Saté Ria",
      "Sans", "I", 9.5, (180, 192, 208), "L", PW)
-pagenum(4)
+pagenum(5)
 
 out = "assets/NNF-Global-Company-Profile.pdf"
 pdf.output(out)
